@@ -1,0 +1,33 @@
+{
+  "name": "hutswa Token List",
+  "logoURI": "https://www.hutswap.org/static/img/img7.png",
+  "keywords": [
+    "HUT",
+    "default",
+    "list"
+  ],
+  "timestamp": "2022-06-01T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x8deE8F32B8bfB86F5997a8c43dAd4e33b2CC7769",
+      "symbol": "USDT",
+      "name": "TetherUSD",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x687fc73552E7a9B3c6D95c9dECF3d89D99F01500",
+      "symbol": "HUT",
+      "name": "HUT",
+      "decimals": 18,
+      "logoURI": "https://www.hutswap.org/static/img/img7.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
