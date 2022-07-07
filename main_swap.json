@@ -23,6 +23,14 @@
       "name": "HUT",
       "decimals": 18,
       "logoURI": "https://www.hutswap.org/static/img/img7.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0xceb03b7cb2a6943e0ff48e21eb5779eea365526c",
+      "symbol": "HUT1",
+      "name": "HUT1",
+      "decimals": 18,
+      "logoURI": "https://www.hutswap.org/static/img/img7.png"
     }
   ],
   "version": {
