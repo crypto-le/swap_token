@@ -9,6 +9,7 @@
   "timestamp": "2022-06-01T00:00:00+00:00",
   "tokens": [
     {
+      "label":"USDT",
       "chainId": 56,
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "symbol": "USDT",
@@ -17,6 +18,7 @@
       "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
     },
     {
+      "label":"HUT",
       "chainId": 56,
       "address": "0x11009a76e5457390e58d9672604ac65fa404b849",
       "symbol": "HUT",
