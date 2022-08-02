@@ -30,8 +30,8 @@
       "label":"HUT*",
       "chainId": 56,
       "address": "0xcc48029a2ddfde4a807ba8fc3ee66b0e11b5c227",
-      "symbol": "HUT3",
-      "name": "HUT3",
+      "symbol": "HUT2",
+      "name": "HUT2",
       "decimals": 18,
       "logoURI": "https://www.hutswap.org/static/img/img7.png"
     }
