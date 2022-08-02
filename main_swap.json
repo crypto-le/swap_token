@@ -12,7 +12,7 @@
       "chainId": 56,
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "symbol": "USDT",
-      "name": "TetherUSD",
+      "name": "USDT",
       "decimals": 18,
       "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
     },
@@ -27,9 +27,9 @@
     {
       "label":"HUT*",
       "chainId": 56,
-      "address": "0xceb03b7cb2a6943e0ff48e21eb5779eea365526c",
-      "symbol": "HUT1",
-      "name": "HUT1",
+      "address": "0xcc48029a2ddfde4a807ba8fc3ee66b0e11b5c227",
+      "symbol": "HUT2",
+      "name": "HUT2",
       "decimals": 18,
       "logoURI": "https://www.hutswap.org/static/img/img7.png"
     }
