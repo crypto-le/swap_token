@@ -20,16 +20,16 @@
     {
       "label":"HUT",
       "chainId": 56,
-      "address": "0x95914a07749d7ebbfa36753c3781371c45b2db27",
+      "address": "0xe71D925bAA3f665469afcc134E4F5087b0108831",
       "symbol": "HUT",
-      "name": "HUT",
+      "name": "WERM",
       "decimals": 18,
       "logoURI": "https://www.hutswap.org/static/img/img7.png"
     },
     {
       "label":"HUT*",
       "chainId": 56,
-      "address": "0xeb969c1eba46201359335299ac3bc2ed5cff3472",
+      "address": "0x04F615Dc3CF6494E1e2654A5EeC7dC4965fB0668",
       "symbol": "HUT3",
       "name": "HUT3",
       "decimals": 18,
